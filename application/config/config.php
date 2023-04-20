@@ -26,7 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 date_default_timezone_set('Africa/Kampala');
 //$config['base_url'] = 'http://' . $_SERVER['HTTP_HOST'].'/cheetah/';
 
-$config['base_url'] = 'http://' . $_SERVER['HTTP_HOST'].'/zambogo/';
+$config['base_url'] = 'https://' . $_SERVER['HTTP_HOST'].'/';
 
 define("DETAILS", "View Product");
 define("MAIN_COLOR",'#FF6A00');
