@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-11 00:19:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-12-11 02:24:48 --> 404 Page Not Found: Docphp/index
+ERROR - 2020-12-11 02:24:50 --> 404 Page Not Found: Docphp/index
+ERROR - 2020-12-11 05:31:26 --> 404 Page Not Found: Blog/index
+ERROR - 2020-12-11 07:06:04 --> 404 Page Not Found: Wp/index
+ERROR - 2020-12-11 07:52:09 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2020-12-11 08:35:33 --> 404 Page Not Found: Wp_infophp/index
+ERROR - 2020-12-11 08:42:41 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-12-11 09:05:31 --> 404 Page Not Found: Wp_content/uploads
+ERROR - 2020-12-11 10:30:49 --> 404 Page Not Found: New/index
+ERROR - 2020-12-11 12:16:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-11 12:19:44 --> 404 Page Not Found: Old/index
+ERROR - 2020-12-11 12:29:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-11 12:29:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-11 13:07:47 --> 404 Page Not Found: Wp_content/admin.php
+ERROR - 2020-12-11 14:06:34 --> 404 Page Not Found: Test/index
+ERROR - 2020-12-11 14:44:15 --> 404 Page Not Found: Wp_content/wp_muen.php
+ERROR - 2020-12-11 14:44:15 --> 404 Page Not Found: Wp_content/wp_muen.php
+ERROR - 2020-12-11 15:52:20 --> 404 Page Not Found: Main/index
+ERROR - 2020-12-11 17:44:10 --> 404 Page Not Found: Site/index
+ERROR - 2020-12-11 18:45:55 --> 404 Page Not Found: Wp_admin/user
+ERROR - 2020-12-11 19:06:53 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2020-12-11 19:06:55 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2020-12-11 19:22:01 --> 404 Page Not Found: Backup/index
+ERROR - 2020-12-11 19:54:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-11 20:57:52 --> 404 Page Not Found: Demo/index
+ERROR - 2020-12-11 21:12:23 --> 404 Page Not Found: Robotstxt/index

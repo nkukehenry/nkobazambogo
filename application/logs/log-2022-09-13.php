@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-09-13 00:20:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-13 03:10:16 --> 404 Page Not Found: Wp_includes/customize
+ERROR - 2022-09-13 03:10:31 --> 404 Page Not Found: Wp_includes/customize
+ERROR - 2022-09-13 03:12:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-13 05:01:11 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2022-09-13 05:01:12 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-09-13 05:01:13 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2022-09-13 05:01:13 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2022-09-13 05:01:14 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2022-09-13 05:01:14 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2022-09-13 05:01:14 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2022-09-13 05:01:14 --> 404 Page Not Found: News/wp_includes
+ERROR - 2022-09-13 05:01:14 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2022-09-13 05:01:14 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2022-09-13 05:01:15 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2022-09-13 05:01:15 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2022-09-13 05:01:15 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2022-09-13 05:01:15 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2022-09-13 05:01:15 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2022-09-13 05:01:15 --> 404 Page Not Found: Cms/wp_includes
+ERROR - 2022-09-13 05:01:16 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2022-09-13 06:15:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-13 07:05:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-13 07:44:36 --> 404 Page Not Found: Wp_content/plugins
+ERROR - 2022-09-13 10:14:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-13 11:10:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-13 17:59:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-13 19:32:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-13 21:16:14 --> 404 Page Not Found: Robotstxt/index

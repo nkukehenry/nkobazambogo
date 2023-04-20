@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-11 01:03:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 04:19:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 06:12:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 09:15:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 09:15:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 12:11:30 --> 404 Page Not Found: Misc/print.css
+ERROR - 2021-01-11 12:11:30 --> 404 Page Not Found: Misc/print.css
+ERROR - 2021-01-11 15:14:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 15:53:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 16:32:00 --> 404 Page Not Found: 403shtml/index
+ERROR - 2021-01-11 16:36:12 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2021-01-11 16:36:58 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2021-01-11 16:39:03 --> 404 Page Not Found: Backup/wp_includes
+ERROR - 2021-01-11 16:41:15 --> 404 Page Not Found: Dev/wp_includes
+ERROR - 2021-01-11 16:42:10 --> 404 Page Not Found: Www/wp_includes
+ERROR - 2021-01-11 16:43:04 --> 404 Page Not Found: Beta/wp_includes
+ERROR - 2021-01-11 16:43:14 --> 404 Page Not Found: News/wp_includes
+ERROR - 2021-01-11 16:44:10 --> 404 Page Not Found: Newsite/wp_includes
+ERROR - 2021-01-11 16:45:29 --> 404 Page Not Found: Oldsite/wp_includes
+ERROR - 2021-01-11 16:46:06 --> 404 Page Not Found: Portal/wp_includes
+ERROR - 2021-01-11 16:48:05 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2021-01-11 16:49:38 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2021-01-11 19:03:18 --> 404 Page Not Found: Themes/README.txt
+ERROR - 2021-01-11 19:03:18 --> 404 Page Not Found: Themes/README.txt
+ERROR - 2021-01-11 19:36:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-11 19:36:09 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2021-01-11 19:36:10 --> 404 Page Not Found: Adstxt/index

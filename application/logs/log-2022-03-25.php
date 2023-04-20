@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-25 02:26:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-25 03:28:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-25 06:36:30 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2022-03-25 06:36:30 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-03-25 06:36:31 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2022-03-25 06:36:31 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2022-03-25 06:36:31 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2022-03-25 06:36:32 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2022-03-25 06:36:32 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2022-03-25 06:36:32 --> 404 Page Not Found: News/wp_includes
+ERROR - 2022-03-25 06:36:32 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2022-03-25 06:36:33 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2022-03-25 06:36:33 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2022-03-25 06:36:33 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2022-03-25 06:36:33 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2022-03-25 06:36:34 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2022-03-25 06:36:34 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2022-03-25 06:36:34 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2022-03-25 06:36:34 --> 404 Page Not Found: Cms/wp_includes
+ERROR - 2022-03-25 06:36:35 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2022-03-25 06:44:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-25 07:14:47 --> 404 Page Not Found: Products/contact
+ERROR - 2022-03-25 07:56:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-25 09:03:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-25 12:49:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-25 14:35:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-25 15:07:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-25 19:30:48 --> 404 Page Not Found: Assets/js

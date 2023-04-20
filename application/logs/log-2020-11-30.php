@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-30 05:36:05 --> 404 Page Not Found: Wp/index
+ERROR - 2020-11-30 05:36:05 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-11-30 05:36:06 --> 404 Page Not Found: Blog/index
+ERROR - 2020-11-30 05:36:08 --> 404 Page Not Found: Www/index
+ERROR - 2020-11-30 05:36:09 --> 404 Page Not Found: En/index
+ERROR - 2020-11-30 05:36:09 --> 404 Page Not Found: Site/index
+ERROR - 2020-11-30 05:36:10 --> 404 Page Not Found: Website/index
+ERROR - 2020-11-30 05:36:11 --> 404 Page Not Found: Main/index
+ERROR - 2020-11-30 05:36:12 --> 404 Page Not Found: New/index
+ERROR - 2020-11-30 05:36:12 --> 404 Page Not Found: Wp/test
+ERROR - 2020-11-30 05:36:13 --> 404 Page Not Found: V1/index
+ERROR - 2020-11-30 05:36:14 --> 404 Page Not Found: V2/index
+ERROR - 2020-11-30 05:36:15 --> 404 Page Not Found: Blogs/index
+ERROR - 2020-11-30 05:36:15 --> 404 Page Not Found: Cms/index
+ERROR - 2020-11-30 05:36:16 --> 404 Page Not Found: Demo/index
+ERROR - 2020-11-30 05:36:18 --> 404 Page Not Found: Portal/index
+ERROR - 2020-11-30 05:36:18 --> 404 Page Not Found: Press/index
+ERROR - 2020-11-30 05:36:19 --> 404 Page Not Found: Install/index
+ERROR - 2020-11-30 05:36:20 --> 404 Page Not Found: WP/index
+ERROR - 2020-11-30 05:36:21 --> 404 Page Not Found: Wp1/index
+ERROR - 2020-11-30 05:36:21 --> 404 Page Not Found: Wp2/index
+ERROR - 2020-11-30 05:36:22 --> 404 Page Not Found: Wp3/index
+ERROR - 2020-11-30 05:36:23 --> 404 Page Not Found: Old/index
+ERROR - 2020-11-30 05:36:24 --> 404 Page Not Found: Oldwp/index
+ERROR - 2020-11-30 05:36:24 --> 404 Page Not Found: Old/index
+ERROR - 2020-11-30 05:36:25 --> 404 Page Not Found: Wp_old/index
+ERROR - 2020-11-30 05:36:26 --> 404 Page Not Found: Old_wp/index
+ERROR - 2020-11-30 05:36:27 --> 404 Page Not Found: Beta/index
+ERROR - 2020-11-30 05:36:27 --> 404 Page Not Found: Test/index
+ERROR - 2020-11-30 05:36:28 --> 404 Page Not Found: Install/index
+ERROR - 2020-11-30 07:33:10 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2020-11-30 10:02:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 10:02:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 19:43:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-30 23:15:22 --> 404 Page Not Found: Robotstxt/index

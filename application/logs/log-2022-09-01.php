@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-09-01 00:56:44 --> 404 Page Not Found: Products/contact
+ERROR - 2022-09-01 01:35:48 --> 404 Page Not Found: Wp_admin/includes
+ERROR - 2022-09-01 05:19:49 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2022-09-01 05:19:49 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-09-01 05:19:50 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2022-09-01 05:19:50 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2022-09-01 05:19:50 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2022-09-01 05:19:50 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2022-09-01 05:19:51 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2022-09-01 05:19:51 --> 404 Page Not Found: News/wp_includes
+ERROR - 2022-09-01 05:19:51 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2022-09-01 05:19:51 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2022-09-01 05:19:52 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2022-09-01 05:19:52 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2022-09-01 05:19:52 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2022-09-01 05:19:52 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2022-09-01 05:19:53 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2022-09-01 05:19:53 --> 404 Page Not Found: Cms/wp_includes
+ERROR - 2022-09-01 05:19:53 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2022-09-01 08:49:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-01 09:06:48 --> 404 Page Not Found: ALFA_DATA/alfacgiapi
+ERROR - 2022-09-01 12:53:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-01 13:01:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-01 13:56:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-01 16:54:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-09-01 18:00:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-01 19:41:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-09-01 19:52:47 --> 404 Page Not Found: Robotstxt/index

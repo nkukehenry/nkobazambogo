@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-13 04:12:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-13 04:45:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-13 06:43:23 --> 404 Page Not Found: Shlphp/index
+ERROR - 2021-06-13 06:43:24 --> 404 Page Not Found: admin/Dumperphp/index
+ERROR - 2021-06-13 06:43:25 --> 404 Page Not Found: Backup/dumper.php
+ERROR - 2021-06-13 06:43:26 --> 404 Page Not Found: Db/dumper.php
+ERROR - 2021-06-13 06:43:27 --> 404 Page Not Found: Dump/dumper.php
+ERROR - 2021-06-13 06:43:28 --> 404 Page Not Found: Dumperphp/index
+ERROR - 2021-06-13 06:43:29 --> 404 Page Not Found: Dumper/dumper.php
+ERROR - 2021-06-13 06:43:30 --> 404 Page Not Found: Sxd/index.php
+ERROR - 2021-06-13 06:43:31 --> 404 Page Not Found: Sypex/dumper.php
+ERROR - 2021-06-13 12:48:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-13 19:34:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-13 20:16:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-13 20:16:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-06-13 21:28:59 --> 404 Page Not Found: Wp_admin/install.php
+ERROR - 2021-06-13 21:29:14 --> 404 Page Not Found: Wp/wp_admin
+ERROR - 2021-06-13 21:29:28 --> 404 Page Not Found: New/wp_admin
+ERROR - 2021-06-13 21:29:43 --> 404 Page Not Found: Old/wp_admin
+ERROR - 2021-06-13 21:30:07 --> 404 Page Not Found: Wordpress/wp_admin
+ERROR - 2021-06-13 21:30:23 --> 404 Page Not Found: Test/wp_admin
+ERROR - 2021-06-13 21:30:45 --> 404 Page Not Found: Blog/wp_admin
+ERROR - 2021-06-13 21:31:01 --> 404 Page Not Found: Cms/wp_admin
+ERROR - 2021-06-13 21:31:19 --> 404 Page Not Found: Web/wp_admin
+ERROR - 2021-06-13 21:31:32 --> 404 Page Not Found: Backup/wp_admin
+ERROR - 2021-06-13 21:31:48 --> 404 Page Not Found: Site/wp_admin
+ERROR - 2021-06-13 21:32:00 --> 404 Page Not Found: Oldsite/wp_admin
