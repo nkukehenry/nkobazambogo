@@ -185,21 +185,21 @@
 			          </a>
 			        </li>
 
-<!-- 
 
-			        <li class="treeview <?php if( ($class_name == 'portfolio')||($class_name == 'portfolio_category') ) {echo 'active';} ?>">
+
+			        <li class="treeview <?php if( ($class_name == 'news')||($class_name == 'category') ) {echo 'active';} ?>">
 						<a href="#">
 							<i class="fa fa-bars"></i>
-							<span>Portfolio</span>
+							<span>News</span>
 							<span class="pull-right-container">
 								<i class="fa fa-angle-left pull-right"></i>
 							</span>
 						</a>
 						<ul class="treeview-menu">
-							<li><a href="<?php echo base_url(); ?>admin/portfolio_category"><i class="fa fa-circle-o"></i> Product Category</a></li>
-							<li><a href="<?php echo base_url(); ?>admin/portfolio"><i class="fa fa-circle-o"></i> Portfolio</a></li>
+							<li><a href="<?php echo base_url(); ?>admin/category"><i class="fa fa-circle-o"></i> Categories</a></li>
+							<li><a href="<?php echo base_url(); ?>admin/news"><i class="fa fa-circle-o"></i> News</a></li>
 						</ul>
-					</li> -->
+					</li>
 
 			        <li class="treeview <?php if( ($class_name == 'client') ) {echo 'active';} ?>">
 			          <a href="<?php echo base_url(); ?>admin/event">
