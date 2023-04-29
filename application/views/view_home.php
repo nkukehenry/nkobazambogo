@@ -329,16 +329,16 @@
                 ?>
                 <div class="col-lg-3 col-md-6">
                     <div class="services-item effect-item">
-                        <a href="<?php echo base_url(); ?>products/view/<?php echo $row['id']; ?>" class="image-effect">
+                        <a href="<?php echo base_url(); ?>activities/view/<?php echo $row['id']; ?>" class="image-effect">
                             <div class="services-photo" style="background-image: url(<?php echo base_url(); ?>public/uploads/<?php echo $row['photo']; ?>); background-size: contain; background-position: center;"></div>
                         </a>
                         <div class="services-text" style="background-color: var(--mainFaded)">
-                            <h3><a href="<?php echo base_url(); ?>products/view/<?php echo $row['id']; ?>"><?php echo $row['name']; ?></a></h3>
+                            <h3><a href="<?php echo base_url(); ?>activities/view/<?php echo $row['id']; ?>"><?php echo $row['name']; ?></a></h3>
                            <p class="text-white">
                                 <?php echo substr(nl2br($row['short_description']),0,45); ?>...
                             </p>
                             <div class="button-bn" >
-                                <a href="<?php echo base_url(); ?>products/view/<?php echo $row['id']; ?>">Read More <i class="fa fa-chevron-circle-right"></i></a>
+                                <a href="<?php echo base_url(); ?>activities/view/<?php echo $row['id']; ?>">Read More <i class="fa fa-chevron-circle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -352,7 +352,7 @@
 
                             <div class="row" style="text-align: center; padding-top: 5%; ">
                                     <div class="button-bn" style="margin: auto;">
-                                <a href="<?php echo base_url(); ?>products/" class="mainText">See More <i class="fa fa-chevron-circle-right"></i></a>
+                                <a href="<?php echo base_url(); ?>activities/" class="mainText">See More <i class="fa fa-chevron-circle-right"></i></a>
                                   </div>
                             </div>
     </div>

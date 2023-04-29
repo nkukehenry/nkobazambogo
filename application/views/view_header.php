@@ -460,7 +460,7 @@ $success_message = '';
                             <li><a href="<?php echo base_url(); ?>event"><?php echo EVENT; ?></a></li>
 
                            
-                            <li><a href="<?php echo base_url(); ?>products">ACTIVITIES</a></li>
+                            <li><a href="<?php echo base_url(); ?>activities">ACTIVITIES</a></li>
                            
                              <?php
                              /*
