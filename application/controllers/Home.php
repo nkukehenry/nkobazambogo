@@ -8,6 +8,7 @@ class Home extends CI_Controller {
         $this->load->model('Model_common');
         $this->load->model('Model_home');
         $this->load->model('Model_portfolio');
+		$this->load->model('Model_event');
     }
 
 	public function index()
@@ -18,6 +19,8 @@ class Home extends CI_Controller {
 		$data['social'] = $this->Model_common->all_social();
 		$data['all_news'] = $this->Model_common->all_news();
 		$data['all_news_category'] = $this->Model_common->all_news_category();
+		$events = $this->Model_event->fetch_event(1);
+		$data['event'] = (count($events)>0)?$events[0]:null; 
 
 		$data['sliders'] = $this->Model_home->all_slider();
 		$data['services'] = $this->Model_home->all_service();
